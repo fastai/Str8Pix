@@ -1,2 +1,4 @@
 secrets.sh
 .ipynb_checkpoints/
+*.jpg
+*.p
